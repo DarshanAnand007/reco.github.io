@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="google-appengine-python" name="Google App Engine (Python)">
+      <configuration>
+        <option name="rootFolder" value="C:\Users\darsh\OneDrive\Desktop\5thsem\Handwritten-Digit-Recognition-CNN-Flask-App" />
+        <option name="sdkFolder" value="C:\Users\darsh\OneDrive\Desktop\Darshan Anand Projects" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="Flask">
+    <option name="enabled" value="true" />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Google App Engine SDK" level="project" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/templates" />
+      </list>
+    </option>
+  </component>
+</module>
